@@ -1,0 +1,2633 @@
+{
+  "version": "2026-11-14T01:55:58.668Z",
+  "base": "https://jaynushub.github.io/jaynus-wallpapers",
+  "bases": [
+    "https://jaynushub.github.io/jaynus-wallpapers"
+  ],
+  "categories": [
+    {
+      "id": "amoled",
+      "title": "AMOLED",
+      "cover": "img/thumb/amoled/182ac496ecb56c1692427bc02b3265c3-a362423c.webp"
+    },
+    {
+      "id": "anime",
+      "title": "Anime",
+      "cover": "img/thumb/anime/1008715-6b05e035.webp"
+    },
+    {
+      "id": "dark",
+      "title": "Dark",
+      "cover": "img/thumb/dark/jaynus22-be79c093.webp"
+    },
+    {
+      "id": "dreamscape",
+      "title": "Dreamscape",
+      "cover": "img/thumb/dreamscape/07f6dffad9bfee3e93081db492baf4af-fe19e4dc.webp"
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "dark/spiderman-scene-3d",
+      "title": "Spiderman Scene 3D",
+      "sourceName": "SpiderMan Scene 3D.jpg",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/spiderman-scene-3d-6d26546c.webp",
+      "preview": "img/preview/dark/spiderman-scene-3d-6d26546c.webp",
+      "full": "img/full/dark/spiderman-scene-3d-6d26546c.webp",
+      "sizeBytes": 153432,
+      "tags": [
+        "dark",
+        "spiderman",
+        "scene",
+        "3d",
+        "hd"
+      ],
+      "featured": false,
+      "trending": true
+    },
+    {
+      "id": "amoled/182ac496ecb56c1692427bc02b3265c3",
+      "title": "AMOLED 001",
+      "sourceName": "182ac496ecb56c1692427bc02b3265c3.jpg",
+      "category": "amoled",
+      "width": 1200,
+      "height": 2660,
+      "thumb": "img/thumb/amoled/182ac496ecb56c1692427bc02b3265c3-a362423c.webp",
+      "preview": "img/preview/amoled/182ac496ecb56c1692427bc02b3265c3-a362423c.webp",
+      "full": "img/full/amoled/182ac496ecb56c1692427bc02b3265c3-a362423c.webp",
+      "sizeBytes": 383760,
+      "tags": [
+        "amoled",
+        "001",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/222222222",
+      "title": "AMOLED 002",
+      "sourceName": "222222222.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/222222222-d845d195.webp",
+      "preview": "img/preview/amoled/222222222-d845d195.webp",
+      "full": "img/full/amoled/222222222-d845d195.webp",
+      "sizeBytes": 149224,
+      "tags": [
+        "amoled",
+        "002",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/24887",
+      "title": "AMOLED 003",
+      "sourceName": "24887.jpg",
+      "category": "amoled",
+      "width": 1280,
+      "height": 720,
+      "thumb": "img/thumb/amoled/24887-a3f77e22.webp",
+      "preview": "img/preview/amoled/24887-a3f77e22.webp",
+      "full": "img/full/amoled/24887-a3f77e22.webp",
+      "sizeBytes": 47896,
+      "tags": [
+        "amoled",
+        "003",
+        "sd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/3974edc3bbd6dc3a0adcdecf114cf364",
+      "title": "AMOLED 004",
+      "sourceName": "3974edc3bbd6dc3a0adcdecf114cf364.jpg",
+      "category": "amoled",
+      "width": 1200,
+      "height": 2561,
+      "thumb": "img/thumb/amoled/3974edc3bbd6dc3a0adcdecf114cf364-f8916da7.webp",
+      "preview": "img/preview/amoled/3974edc3bbd6dc3a0adcdecf114cf364-f8916da7.webp",
+      "full": "img/full/amoled/3974edc3bbd6dc3a0adcdecf114cf364-f8916da7.webp",
+      "sizeBytes": 382486,
+      "tags": [
+        "amoled",
+        "004",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/anonymous-red-rose-1284x2778-27360",
+      "title": "Anonymous Red Rose",
+      "sourceName": "anonymous-red-rose-1284x2778-27360.png",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/anonymous-red-rose-1284x2778-27360-02b05160.webp",
+      "preview": "img/preview/amoled/anonymous-red-rose-1284x2778-27360-02b05160.webp",
+      "full": "img/full/amoled/anonymous-red-rose-1284x2778-27360-02b05160.webp",
+      "sizeBytes": 125736,
+      "tags": [
+        "amoled",
+        "anonymous",
+        "red",
+        "rose",
+        "hd"
+      ],
+      "featured": true,
+      "trending": false
+    },
+    {
+      "id": "amoled/avengers-doomsday-1284x2778-27643",
+      "title": "Avengers Doomsday",
+      "sourceName": "avengers-doomsday-1284x2778-27643.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/avengers-doomsday-1284x2778-27643-b7979a51.webp",
+      "preview": "img/preview/amoled/avengers-doomsday-1284x2778-27643-b7979a51.webp",
+      "full": "img/full/amoled/avengers-doomsday-1284x2778-27643-b7979a51.webp",
+      "sizeBytes": 244784,
+      "tags": [
+        "amoled",
+        "avengers",
+        "doomsday",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/avengers-doomsday-1284x2778-27644",
+      "title": "Avengers Doomsday 2",
+      "sourceName": "avengers-doomsday-1284x2778-27644.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/avengers-doomsday-1284x2778-27644-ee8f8348.webp",
+      "preview": "img/preview/amoled/avengers-doomsday-1284x2778-27644-ee8f8348.webp",
+      "full": "img/full/amoled/avengers-doomsday-1284x2778-27644-ee8f8348.webp",
+      "sizeBytes": 432418,
+      "tags": [
+        "amoled",
+        "avengers",
+        "doomsday",
+        "2",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/baldurs-jaynus",
+      "title": "Baldurs",
+      "sourceName": "BALDURS -JAYNUS.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/baldurs-jaynus-c45f41e5.webp",
+      "preview": "img/preview/amoled/baldurs-jaynus-c45f41e5.webp",
+      "full": "img/full/amoled/baldurs-jaynus-c45f41e5.webp",
+      "sizeBytes": 67844,
+      "tags": [
+        "amoled",
+        "baldurs",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/best-white",
+      "title": "Best White",
+      "sourceName": "BEST WHİTE.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/best-white-4d9a6ceb.webp",
+      "preview": "img/preview/amoled/best-white-4d9a6ceb.webp",
+      "full": "img/full/amoled/best-white-4d9a6ceb.webp",
+      "sizeBytes": 63036,
+      "tags": [
+        "amoled",
+        "best",
+        "white",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/brabus-p-900-rocket-1284x2778-27722",
+      "title": "Brabus P Rocket",
+      "sourceName": "brabus-p-900-rocket-1284x2778-27722.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/brabus-p-900-rocket-1284x2778-27722-9064edf0.webp",
+      "preview": "img/preview/amoled/brabus-p-900-rocket-1284x2778-27722-9064edf0.webp",
+      "full": "img/full/amoled/brabus-p-900-rocket-1284x2778-27722-9064edf0.webp",
+      "sizeBytes": 186930,
+      "tags": [
+        "amoled",
+        "brabus",
+        "p",
+        "rocket",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/cf7e27b74fc2b09aabfc0234ad92df03",
+      "title": "AMOLED 005",
+      "sourceName": "cf7e27b74fc2b09aabfc0234ad92df03.jpg",
+      "category": "amoled",
+      "width": 1080,
+      "height": 1920,
+      "thumb": "img/thumb/amoled/cf7e27b74fc2b09aabfc0234ad92df03-14f0820a.webp",
+      "preview": "img/preview/amoled/cf7e27b74fc2b09aabfc0234ad92df03-14f0820a.webp",
+      "full": "img/full/amoled/cf7e27b74fc2b09aabfc0234ad92df03-14f0820a.webp",
+      "sizeBytes": 361240,
+      "tags": [
+        "amoled",
+        "005",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/dddd",
+      "title": "Dddd",
+      "sourceName": "DDDD.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/dddd-c6d7b923.webp",
+      "preview": "img/preview/amoled/dddd-c6d7b923.webp",
+      "full": "img/full/amoled/dddd-c6d7b923.webp",
+      "sizeBytes": 378970,
+      "tags": [
+        "amoled",
+        "dddd",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/dispatch-shroud-1284x2778-27117",
+      "title": "Dispatch Shroud",
+      "sourceName": "dispatch-shroud-1284x2778-27117.png",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/dispatch-shroud-1284x2778-27117-1203077c.webp",
+      "preview": "img/preview/amoled/dispatch-shroud-1284x2778-27117-1203077c.webp",
+      "full": "img/full/amoled/dispatch-shroud-1284x2778-27117-1203077c.webp",
+      "sizeBytes": 95178,
+      "tags": [
+        "amoled",
+        "dispatch",
+        "shroud",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/doctor-doom-8k-1284x2778-27347",
+      "title": "Doctor Doom",
+      "sourceName": "doctor-doom-8k-1284x2778-27347.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/doctor-doom-8k-1284x2778-27347-4ebf2418.webp",
+      "preview": "img/preview/amoled/doctor-doom-8k-1284x2778-27347-4ebf2418.webp",
+      "full": "img/full/amoled/doctor-doom-8k-1284x2778-27347-4ebf2418.webp",
+      "sizeBytes": 978334,
+      "tags": [
+        "amoled",
+        "doctor",
+        "doom",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/doctor-doom-badass-1284x2778-27708",
+      "title": "Doctor Doom Badass",
+      "sourceName": "doctor-doom-badass-1284x2778-27708.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/doctor-doom-badass-1284x2778-27708-f64cd618.webp",
+      "preview": "img/preview/amoled/doctor-doom-badass-1284x2778-27708-f64cd618.webp",
+      "full": "img/full/amoled/doctor-doom-badass-1284x2778-27708-f64cd618.webp",
+      "sizeBytes": 442618,
+      "tags": [
+        "amoled",
+        "doctor",
+        "doom",
+        "badass",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/eee",
+      "title": "Eee",
+      "sourceName": "EEE.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/eee-98fc4649.webp",
+      "preview": "img/preview/amoled/eee-98fc4649.webp",
+      "full": "img/full/amoled/eee-98fc4649.webp",
+      "sizeBytes": 276322,
+      "tags": [
+        "amoled",
+        "eee",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/fallen",
+      "title": "Fallen",
+      "sourceName": "FALLEN.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/fallen-90f4cb84.webp",
+      "preview": "img/preview/amoled/fallen-90f4cb84.webp",
+      "full": "img/full/amoled/fallen-90f4cb84.webp",
+      "sizeBytes": 313702,
+      "tags": [
+        "amoled",
+        "fallen",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/godzilla-minus-zero-1284x2778-27666",
+      "title": "Godzilla Minus Zero",
+      "sourceName": "godzilla-minus-zero-1284x2778-27666.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/godzilla-minus-zero-1284x2778-27666-647f952d.webp",
+      "preview": "img/preview/amoled/godzilla-minus-zero-1284x2778-27666-647f952d.webp",
+      "full": "img/full/amoled/godzilla-minus-zero-1284x2778-27666-647f952d.webp",
+      "sizeBytes": 1245868,
+      "tags": [
+        "amoled",
+        "godzilla",
+        "minus",
+        "zero",
+        "hd"
+      ],
+      "featured": true,
+      "trending": false
+    },
+    {
+      "id": "amoled/godzilla-minus-zero-1284x2778-27668",
+      "title": "Godzilla Minus Zero 2",
+      "sourceName": "godzilla-minus-zero-1284x2778-27668.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/godzilla-minus-zero-1284x2778-27668-955d25ec.webp",
+      "preview": "img/preview/amoled/godzilla-minus-zero-1284x2778-27668-955d25ec.webp",
+      "full": "img/full/amoled/godzilla-minus-zero-1284x2778-27668-955d25ec.webp",
+      "sizeBytes": 1125054,
+      "tags": [
+        "amoled",
+        "godzilla",
+        "minus",
+        "zero",
+        "2",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/guy-fawkes-mask-1284x2778-27357",
+      "title": "Guy Fawkes Mask",
+      "sourceName": "guy-fawkes-mask-1284x2778-27357.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/guy-fawkes-mask-1284x2778-27357-2a74e48d.webp",
+      "preview": "img/preview/amoled/guy-fawkes-mask-1284x2778-27357-2a74e48d.webp",
+      "full": "img/full/amoled/guy-fawkes-mask-1284x2778-27357-2a74e48d.webp",
+      "sizeBytes": 184896,
+      "tags": [
+        "amoled",
+        "guy",
+        "fawkes",
+        "mask",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/img2-wallspic-com-superman-superhero-amoled-outerwear-azure-1080x1920",
+      "title": "Img2 Wallspic Com Superman",
+      "sourceName": "img2.wallspic.com-superman-superhero-amoled-outerwear-azure-1080x1920.jpg",
+      "category": "amoled",
+      "width": 1080,
+      "height": 1920,
+      "thumb": "img/thumb/amoled/img2-wallspic-com-superman-superhero-amoled-outerwear-azure-1080x1920-6f7004de.webp",
+      "preview": "img/preview/amoled/img2-wallspic-com-superman-superhero-amoled-outerwear-azure-1080x1920-6f7004de.webp",
+      "full": "img/full/amoled/img2-wallspic-com-superman-superhero-amoled-outerwear-azure-1080x1920-6f7004de.webp",
+      "sizeBytes": 64522,
+      "tags": [
+        "amoled",
+        "img2",
+        "wallspic",
+        "com",
+        "superman",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/iphone-18-pro-stock-1284x2778-27243",
+      "title": "iPhone 18 Pro Stock",
+      "sourceName": "iphone-18-pro-stock-1284x2778-27243.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/iphone-18-pro-stock-1284x2778-27243-5c993d8c.webp",
+      "preview": "img/preview/amoled/iphone-18-pro-stock-1284x2778-27243-5c993d8c.webp",
+      "full": "img/full/amoled/iphone-18-pro-stock-1284x2778-27243-5c993d8c.webp",
+      "sizeBytes": 488696,
+      "tags": [
+        "amoled",
+        "iphone",
+        "18",
+        "pro",
+        "stock",
+        "hd"
+      ],
+      "featured": true,
+      "trending": false
+    },
+    {
+      "id": "amoled/iphone-18-pro-stock-1284x2778-27246",
+      "title": "iPhone 18 Pro Stock 2",
+      "sourceName": "iphone-18-pro-stock-1284x2778-27246.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/iphone-18-pro-stock-1284x2778-27246-0ee40f0c.webp",
+      "preview": "img/preview/amoled/iphone-18-pro-stock-1284x2778-27246-0ee40f0c.webp",
+      "full": "img/full/amoled/iphone-18-pro-stock-1284x2778-27246-0ee40f0c.webp",
+      "sizeBytes": 614966,
+      "tags": [
+        "amoled",
+        "iphone",
+        "18",
+        "pro",
+        "stock",
+        "2",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/iphone-18-pro-stock-1284x2778-27251",
+      "title": "iPhone 18 Pro Stock 3",
+      "sourceName": "iphone-18-pro-stock-1284x2778-27251.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/iphone-18-pro-stock-1284x2778-27251-9fdb6c0d.webp",
+      "preview": "img/preview/amoled/iphone-18-pro-stock-1284x2778-27251-9fdb6c0d.webp",
+      "full": "img/full/amoled/iphone-18-pro-stock-1284x2778-27251-9fdb6c0d.webp",
+      "sizeBytes": 409106,
+      "tags": [
+        "amoled",
+        "iphone",
+        "18",
+        "pro",
+        "stock",
+        "3",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/ken-kitano-sun-ken-1284x2778-27424",
+      "title": "Ken Kitano Sun Ken",
+      "sourceName": "ken-kitano-sun-ken-1284x2778-27424.png",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/ken-kitano-sun-ken-1284x2778-27424-bc70fd95.webp",
+      "preview": "img/preview/amoled/ken-kitano-sun-ken-1284x2778-27424-bc70fd95.webp",
+      "full": "img/full/amoled/ken-kitano-sun-ken-1284x2778-27424-bc70fd95.webp",
+      "sizeBytes": 994742,
+      "tags": [
+        "amoled",
+        "ken",
+        "kitano",
+        "sun",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/king-jaynus",
+      "title": "King",
+      "sourceName": "KİNG -JAYNUS.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/king-jaynus-0a118a43.webp",
+      "preview": "img/preview/amoled/king-jaynus-0a118a43.webp",
+      "full": "img/full/amoled/king-jaynus-0a118a43.webp",
+      "sizeBytes": 103232,
+      "tags": [
+        "amoled",
+        "king",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/mortal-shell-knight-1284x2778-27506",
+      "title": "Mortal Shell Knight",
+      "sourceName": "mortal-shell-knight-1284x2778-27506.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/mortal-shell-knight-1284x2778-27506-8af1da9a.webp",
+      "preview": "img/preview/amoled/mortal-shell-knight-1284x2778-27506-8af1da9a.webp",
+      "full": "img/full/amoled/mortal-shell-knight-1284x2778-27506-8af1da9a.webp",
+      "sizeBytes": 822914,
+      "tags": [
+        "amoled",
+        "mortal",
+        "shell",
+        "knight",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/pexels-mateusz-29241407",
+      "title": "Pexels Mateusz",
+      "sourceName": "pexels-mateusz-29241407.jpg",
+      "category": "amoled",
+      "width": 2215,
+      "height": 3320,
+      "thumb": "img/thumb/amoled/pexels-mateusz-29241407-70609577.webp",
+      "preview": "img/preview/amoled/pexels-mateusz-29241407-70609577.webp",
+      "full": "img/full/amoled/pexels-mateusz-29241407-70609577.webp",
+      "sizeBytes": 233708,
+      "tags": [
+        "amoled",
+        "pexels",
+        "mateusz",
+        "4k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/red-jaynus",
+      "title": "Red",
+      "sourceName": "RED -JAYNUS.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/red-jaynus-c037b398.webp",
+      "preview": "img/preview/amoled/red-jaynus-c037b398.webp",
+      "full": "img/full/amoled/red-jaynus-c037b398.webp",
+      "sizeBytes": 144934,
+      "tags": [
+        "amoled",
+        "red",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/red-king-jaynus",
+      "title": "Red King",
+      "sourceName": "RED KİNG -JAYNUS.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/red-king-jaynus-4fc7de11.webp",
+      "preview": "img/preview/amoled/red-king-jaynus-4fc7de11.webp",
+      "full": "img/full/amoled/red-king-jaynus-4fc7de11.webp",
+      "sizeBytes": 62624,
+      "tags": [
+        "amoled",
+        "red",
+        "king",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/rrr",
+      "title": "Rrr",
+      "sourceName": "RRR.jpg",
+      "category": "amoled",
+      "width": 1080,
+      "height": 1920,
+      "thumb": "img/thumb/amoled/rrr-56acd543.webp",
+      "preview": "img/preview/amoled/rrr-56acd543.webp",
+      "full": "img/full/amoled/rrr-56acd543.webp",
+      "sizeBytes": 102300,
+      "tags": [
+        "amoled",
+        "rrr",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/samurai-jaynus",
+      "title": "Samurai",
+      "sourceName": "SAMURAİ -JAYNUS.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/samurai-jaynus-73089d88.webp",
+      "preview": "img/preview/amoled/samurai-jaynus-73089d88.webp",
+      "full": "img/full/amoled/samurai-jaynus-73089d88.webp",
+      "sizeBytes": 145880,
+      "tags": [
+        "amoled",
+        "samurai",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/simon-ghost-riley-1284x2778-27423",
+      "title": "Simon Ghost Riley",
+      "sourceName": "simon-ghost-riley-1284x2778-27423.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/simon-ghost-riley-1284x2778-27423-1da4de98.webp",
+      "preview": "img/preview/amoled/simon-ghost-riley-1284x2778-27423-1da4de98.webp",
+      "full": "img/full/amoled/simon-ghost-riley-1284x2778-27423-1da4de98.webp",
+      "sizeBytes": 372738,
+      "tags": [
+        "amoled",
+        "simon",
+        "ghost",
+        "riley",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/spider-man-brand-1284x2778-27093",
+      "title": "Spider Man Brand",
+      "sourceName": "spider-man-brand-1284x2778-27093.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/spider-man-brand-1284x2778-27093-cbab2d6c.webp",
+      "preview": "img/preview/amoled/spider-man-brand-1284x2778-27093-cbab2d6c.webp",
+      "full": "img/full/amoled/spider-man-brand-1284x2778-27093-cbab2d6c.webp",
+      "sizeBytes": 441902,
+      "tags": [
+        "amoled",
+        "spider",
+        "man",
+        "brand",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/spider",
+      "title": "Spider",
+      "sourceName": "SPİDER.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/spider-fa5d1f7c.webp",
+      "preview": "img/preview/amoled/spider-fa5d1f7c.webp",
+      "full": "img/full/amoled/spider-fa5d1f7c.webp",
+      "sizeBytes": 256244,
+      "tags": [
+        "amoled",
+        "spider",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/taro-sakamoto-shin-1284x2778-27098",
+      "title": "Taro Sakamoto Shin",
+      "sourceName": "taro-sakamoto-shin-1284x2778-27098.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/taro-sakamoto-shin-1284x2778-27098-de942c6c.webp",
+      "preview": "img/preview/amoled/taro-sakamoto-shin-1284x2778-27098-de942c6c.webp",
+      "full": "img/full/amoled/taro-sakamoto-shin-1284x2778-27098-de942c6c.webp",
+      "sizeBytes": 240086,
+      "tags": [
+        "amoled",
+        "taro",
+        "sakamoto",
+        "shin",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/the-king-jaynus",
+      "title": "The King",
+      "sourceName": "THE KİNG -JAYNUS.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/the-king-jaynus-a80f8741.webp",
+      "preview": "img/preview/amoled/the-king-jaynus-a80f8741.webp",
+      "full": "img/full/amoled/the-king-jaynus-a80f8741.webp",
+      "sizeBytes": 262768,
+      "tags": [
+        "amoled",
+        "the",
+        "king",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/the-witcher-3-wild-1284x2778-27787",
+      "title": "The Witcher 3 Wild",
+      "sourceName": "the-witcher-3-wild-1284x2778-27787.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/the-witcher-3-wild-1284x2778-27787-fa1e82d2.webp",
+      "preview": "img/preview/amoled/the-witcher-3-wild-1284x2778-27787-fa1e82d2.webp",
+      "full": "img/full/amoled/the-witcher-3-wild-1284x2778-27787-fa1e82d2.webp",
+      "sizeBytes": 819928,
+      "tags": [
+        "amoled",
+        "the",
+        "witcher",
+        "3",
+        "wild",
+        "hd"
+      ],
+      "featured": true,
+      "trending": false
+    },
+    {
+      "id": "amoled/v-for-vendetta-guy-1284x2778-27386",
+      "title": "V For Vendetta Guy",
+      "sourceName": "v-for-vendetta-guy-1284x2778-27386.png",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/v-for-vendetta-guy-1284x2778-27386-2ea34db1.webp",
+      "preview": "img/preview/amoled/v-for-vendetta-guy-1284x2778-27386-2ea34db1.webp",
+      "full": "img/full/amoled/v-for-vendetta-guy-1284x2778-27386-2ea34db1.webp",
+      "sizeBytes": 73514,
+      "tags": [
+        "amoled",
+        "v",
+        "for",
+        "vendetta",
+        "guy",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/vvvv",
+      "title": "Vvvv",
+      "sourceName": "VVVV.png",
+      "category": "amoled",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/amoled/vvvv-50427fd7.webp",
+      "preview": "img/preview/amoled/vvvv-50427fd7.webp",
+      "full": "img/full/amoled/vvvv-50427fd7.webp",
+      "sizeBytes": 69284,
+      "tags": [
+        "amoled",
+        "vvvv",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/wolverine-high-1284x2778-27238",
+      "title": "Wolverine",
+      "sourceName": "wolverine-high-1284x2778-27238.jpg",
+      "category": "amoled",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/amoled/wolverine-high-1284x2778-27238-66b5e582.webp",
+      "preview": "img/preview/amoled/wolverine-high-1284x2778-27238-66b5e582.webp",
+      "full": "img/full/amoled/wolverine-high-1284x2778-27238-66b5e582.webp",
+      "sizeBytes": 953714,
+      "tags": [
+        "amoled",
+        "wolverine",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/wp3639239-amoled-for-phone-wallpapers",
+      "title": "AMOLED 006",
+      "sourceName": "wp3639239-amoled-for-phone-wallpapers.jpg",
+      "category": "amoled",
+      "width": 1080,
+      "height": 1920,
+      "thumb": "img/thumb/amoled/wp3639239-amoled-for-phone-wallpapers-aa664acd.webp",
+      "preview": "img/preview/amoled/wp3639239-amoled-for-phone-wallpapers-aa664acd.webp",
+      "full": "img/full/amoled/wp3639239-amoled-for-phone-wallpapers-aa664acd.webp",
+      "sizeBytes": 14152,
+      "tags": [
+        "amoled",
+        "006",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/wp4658083-amoled-for-phone-wallpapers",
+      "title": "AMOLED 007",
+      "sourceName": "wp4658083-amoled-for-phone-wallpapers.png",
+      "category": "amoled",
+      "width": 1440,
+      "height": 2560,
+      "thumb": "img/thumb/amoled/wp4658083-amoled-for-phone-wallpapers-8b1fa29e.webp",
+      "preview": "img/preview/amoled/wp4658083-amoled-for-phone-wallpapers-8b1fa29e.webp",
+      "full": "img/full/amoled/wp4658083-amoled-for-phone-wallpapers-8b1fa29e.webp",
+      "sizeBytes": 69012,
+      "tags": [
+        "amoled",
+        "007",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "amoled/wp5133514-amoled-for-phone-wallpapers",
+      "title": "AMOLED 008",
+      "sourceName": "wp5133514-amoled-for-phone-wallpapers.png",
+      "category": "amoled",
+      "width": 1080,
+      "height": 1920,
+      "thumb": "img/thumb/amoled/wp5133514-amoled-for-phone-wallpapers-aa93bb09.webp",
+      "preview": "img/preview/amoled/wp5133514-amoled-for-phone-wallpapers-aa93bb09.webp",
+      "full": "img/full/amoled/wp5133514-amoled-for-phone-wallpapers-aa93bb09.webp",
+      "sizeBytes": 345522,
+      "tags": [
+        "amoled",
+        "008",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1008715",
+      "title": "Anime 001",
+      "sourceName": "1008715.png",
+      "category": "anime",
+      "width": 1104,
+      "height": 2448,
+      "thumb": "img/thumb/anime/1008715-6b05e035.webp",
+      "preview": "img/preview/anime/1008715-6b05e035.webp",
+      "full": "img/full/anime/1008715-6b05e035.webp",
+      "sizeBytes": 115092,
+      "tags": [
+        "anime",
+        "001",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1008716",
+      "title": "Anime 002",
+      "sourceName": "1008716.png",
+      "category": "anime",
+      "width": 1104,
+      "height": 2448,
+      "thumb": "img/thumb/anime/1008716-82b885f9.webp",
+      "preview": "img/preview/anime/1008716-82b885f9.webp",
+      "full": "img/full/anime/1008716-82b885f9.webp",
+      "sizeBytes": 372838,
+      "tags": [
+        "anime",
+        "002",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1009169",
+      "title": "Anime 003",
+      "sourceName": "1009169.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1009169-9a033fd0.webp",
+      "preview": "img/preview/anime/1009169-9a033fd0.webp",
+      "full": "img/full/anime/1009169-9a033fd0.webp",
+      "sizeBytes": 347514,
+      "tags": [
+        "anime",
+        "003",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1009170",
+      "title": "Anime 004",
+      "sourceName": "1009170.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1009170-c46aee33.webp",
+      "preview": "img/preview/anime/1009170-c46aee33.webp",
+      "full": "img/full/anime/1009170-c46aee33.webp",
+      "sizeBytes": 415078,
+      "tags": [
+        "anime",
+        "004",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1012289",
+      "title": "Anime 005",
+      "sourceName": "1012289.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1012289-17916ba6.webp",
+      "preview": "img/preview/anime/1012289-17916ba6.webp",
+      "full": "img/full/anime/1012289-17916ba6.webp",
+      "sizeBytes": 344422,
+      "tags": [
+        "anime",
+        "005",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1012399",
+      "title": "Anime 006",
+      "sourceName": "1012399.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1012399-2e218897.webp",
+      "preview": "img/preview/anime/1012399-2e218897.webp",
+      "full": "img/full/anime/1012399-2e218897.webp",
+      "sizeBytes": 370560,
+      "tags": [
+        "anime",
+        "006",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1012643",
+      "title": "Anime 007",
+      "sourceName": "1012643.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1012643-54fb2b20.webp",
+      "preview": "img/preview/anime/1012643-54fb2b20.webp",
+      "full": "img/full/anime/1012643-54fb2b20.webp",
+      "sizeBytes": 476036,
+      "tags": [
+        "anime",
+        "007",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1012648",
+      "title": "Anime 008",
+      "sourceName": "1012648.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1012648-6e2818af.webp",
+      "preview": "img/preview/anime/1012648-6e2818af.webp",
+      "full": "img/full/anime/1012648-6e2818af.webp",
+      "sizeBytes": 673810,
+      "tags": [
+        "anime",
+        "008",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1012715",
+      "title": "Anime 009",
+      "sourceName": "1012715.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1012715-660e8b0e.webp",
+      "preview": "img/preview/anime/1012715-660e8b0e.webp",
+      "full": "img/full/anime/1012715-660e8b0e.webp",
+      "sizeBytes": 597452,
+      "tags": [
+        "anime",
+        "009",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1012742",
+      "title": "Anime 010",
+      "sourceName": "1012742.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1012742-58f07678.webp",
+      "preview": "img/preview/anime/1012742-58f07678.webp",
+      "full": "img/full/anime/1012742-58f07678.webp",
+      "sizeBytes": 667626,
+      "tags": [
+        "anime",
+        "010",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1012864",
+      "title": "Anime 011",
+      "sourceName": "1012864.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1012864-6c5fe4c1.webp",
+      "preview": "img/preview/anime/1012864-6c5fe4c1.webp",
+      "full": "img/full/anime/1012864-6c5fe4c1.webp",
+      "sizeBytes": 624520,
+      "tags": [
+        "anime",
+        "011",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1013112",
+      "title": "Anime 012",
+      "sourceName": "1013112.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1013112-ff902812.webp",
+      "preview": "img/preview/anime/1013112-ff902812.webp",
+      "full": "img/full/anime/1013112-ff902812.webp",
+      "sizeBytes": 760122,
+      "tags": [
+        "anime",
+        "012",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1013143",
+      "title": "Anime 013",
+      "sourceName": "1013143.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1013143-d31033fa.webp",
+      "preview": "img/preview/anime/1013143-d31033fa.webp",
+      "full": "img/full/anime/1013143-d31033fa.webp",
+      "sizeBytes": 662016,
+      "tags": [
+        "anime",
+        "013",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1013144",
+      "title": "Anime 014",
+      "sourceName": "1013144.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1013144-8e9ee94e.webp",
+      "preview": "img/preview/anime/1013144-8e9ee94e.webp",
+      "full": "img/full/anime/1013144-8e9ee94e.webp",
+      "sizeBytes": 455074,
+      "tags": [
+        "anime",
+        "014",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1013145",
+      "title": "Anime 015",
+      "sourceName": "1013145.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1013145-09a0e1a5.webp",
+      "preview": "img/preview/anime/1013145-09a0e1a5.webp",
+      "full": "img/full/anime/1013145-09a0e1a5.webp",
+      "sizeBytes": 883702,
+      "tags": [
+        "anime",
+        "015",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1013619",
+      "title": "Anime 016",
+      "sourceName": "1013619.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1013619-1d583f12.webp",
+      "preview": "img/preview/anime/1013619-1d583f12.webp",
+      "full": "img/full/anime/1013619-1d583f12.webp",
+      "sizeBytes": 370462,
+      "tags": [
+        "anime",
+        "016",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1013621",
+      "title": "Anime 017",
+      "sourceName": "1013621.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1013621-68906276.webp",
+      "preview": "img/preview/anime/1013621-68906276.webp",
+      "full": "img/full/anime/1013621-68906276.webp",
+      "sizeBytes": 358430,
+      "tags": [
+        "anime",
+        "017",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1013623",
+      "title": "Anime 018",
+      "sourceName": "1013623.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1013623-2a9933c0.webp",
+      "preview": "img/preview/anime/1013623-2a9933c0.webp",
+      "full": "img/full/anime/1013623-2a9933c0.webp",
+      "sizeBytes": 318382,
+      "tags": [
+        "anime",
+        "018",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1013626",
+      "title": "Anime 019",
+      "sourceName": "1013626.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/1013626-b6d50b10.webp",
+      "preview": "img/preview/anime/1013626-b6d50b10.webp",
+      "full": "img/full/anime/1013626-b6d50b10.webp",
+      "sizeBytes": 598682,
+      "tags": [
+        "anime",
+        "019",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/1018988",
+      "title": "Anime 020",
+      "sourceName": "1018988.png",
+      "category": "anime",
+      "width": 3072,
+      "height": 5504,
+      "thumb": "img/thumb/anime/1018988-79f68a75.webp",
+      "preview": "img/preview/anime/1018988-79f68a75.webp",
+      "full": "img/full/anime/1018988-79f68a75.webp",
+      "sizeBytes": 1858398,
+      "tags": [
+        "anime",
+        "020",
+        "4k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/839812",
+      "title": "Anime 021",
+      "sourceName": "839812.png",
+      "category": "anime",
+      "width": 1440,
+      "height": 3120,
+      "thumb": "img/thumb/anime/839812-3311ce45.webp",
+      "preview": "img/preview/anime/839812-3311ce45.webp",
+      "full": "img/full/anime/839812-3311ce45.webp",
+      "sizeBytes": 254340,
+      "tags": [
+        "anime",
+        "021",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/954381",
+      "title": "Anime 022",
+      "sourceName": "954381.png",
+      "category": "anime",
+      "width": 1080,
+      "height": 1920,
+      "thumb": "img/thumb/anime/954381-e331d1bd.webp",
+      "preview": "img/preview/anime/954381-e331d1bd.webp",
+      "full": "img/full/anime/954381-e331d1bd.webp",
+      "sizeBytes": 193426,
+      "tags": [
+        "anime",
+        "022",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/asta-s-fiery-charge",
+      "title": "Asta's Fiery Charge",
+      "sourceName": "Asta's Fiery Charge.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/asta-s-fiery-charge-fd4a1b35.webp",
+      "preview": "img/preview/anime/asta-s-fiery-charge-fd4a1b35.webp",
+      "full": "img/full/anime/asta-s-fiery-charge-fd4a1b35.webp",
+      "sizeBytes": 494470,
+      "tags": [
+        "anime",
+        "asta's",
+        "fiery",
+        "charge",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/attack-on-titan-mikasa-and-eren",
+      "title": "Attack On Titan Mikasa And Eren",
+      "sourceName": "Attack on Titan Mikasa and Eren.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/attack-on-titan-mikasa-and-eren-1bc57512.webp",
+      "preview": "img/preview/anime/attack-on-titan-mikasa-and-eren-1bc57512.webp",
+      "full": "img/full/anime/attack-on-titan-mikasa-and-eren-1bc57512.webp",
+      "sizeBytes": 820634,
+      "tags": [
+        "anime",
+        "attack",
+        "on",
+        "titan",
+        "mikasa",
+        "and",
+        "eren",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/boruto-uzumaki-1284x2778-27276",
+      "title": "Boruto Uzumaki",
+      "sourceName": "boruto-uzumaki-1284x2778-27276.png",
+      "category": "anime",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/anime/boruto-uzumaki-1284x2778-27276-c49f3144.webp",
+      "preview": "img/preview/anime/boruto-uzumaki-1284x2778-27276-c49f3144.webp",
+      "full": "img/full/anime/boruto-uzumaki-1284x2778-27276-c49f3144.webp",
+      "sizeBytes": 136350,
+      "tags": [
+        "anime",
+        "boruto",
+        "uzumaki",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/crimson-dusk",
+      "title": "Crimson Dusk",
+      "sourceName": "Crimson Dusk.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/crimson-dusk-36723cfb.webp",
+      "preview": "img/preview/anime/crimson-dusk-36723cfb.webp",
+      "full": "img/full/anime/crimson-dusk-36723cfb.webp",
+      "sizeBytes": 1129854,
+      "tags": [
+        "anime",
+        "crimson",
+        "dusk",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/dark-elegance",
+      "title": "Dark Elegance",
+      "sourceName": "Dark Elegance.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/dark-elegance-b6d50b10.webp",
+      "preview": "img/preview/anime/dark-elegance-b6d50b10.webp",
+      "full": "img/full/anime/dark-elegance-b6d50b10.webp",
+      "sizeBytes": 598682,
+      "tags": [
+        "anime",
+        "dark",
+        "elegance",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/demon-slayer-bold-ink",
+      "title": "Demon Slayer Bold Ink",
+      "sourceName": "Demon Slayer Bold Ink.jpg",
+      "category": "anime",
+      "width": 1170,
+      "height": 2532,
+      "thumb": "img/thumb/anime/demon-slayer-bold-ink-3034847a.webp",
+      "preview": "img/preview/anime/demon-slayer-bold-ink-3034847a.webp",
+      "full": "img/full/anime/demon-slayer-bold-ink-3034847a.webp",
+      "sizeBytes": 444454,
+      "tags": [
+        "anime",
+        "demon",
+        "slayer",
+        "bold",
+        "ink",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/epic-goku-dynamic",
+      "title": "Epic Goku Dynamic",
+      "sourceName": "Epic Goku Dynamic.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/epic-goku-dynamic-660e8b0e.webp",
+      "preview": "img/preview/anime/epic-goku-dynamic-660e8b0e.webp",
+      "full": "img/full/anime/epic-goku-dynamic-660e8b0e.webp",
+      "sizeBytes": 597452,
+      "tags": [
+        "anime",
+        "epic",
+        "goku",
+        "dynamic",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/gohan-anime-artwork",
+      "title": "Gohan Anime Artwork",
+      "sourceName": "Gohan Anime Artwork.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/gohan-anime-artwork-80293750.webp",
+      "preview": "img/preview/anime/gohan-anime-artwork-80293750.webp",
+      "full": "img/full/anime/gohan-anime-artwork-80293750.webp",
+      "sizeBytes": 1169300,
+      "tags": [
+        "anime",
+        "gohan",
+        "artwork",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/ichigo-kurosaki",
+      "title": "Ichigo Kurosaki",
+      "sourceName": "Ichigo Kurosaki.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/ichigo-kurosaki-28d721b3.webp",
+      "preview": "img/preview/anime/ichigo-kurosaki-28d721b3.webp",
+      "full": "img/full/anime/ichigo-kurosaki-28d721b3.webp",
+      "sizeBytes": 424674,
+      "tags": [
+        "anime",
+        "ichigo",
+        "kurosaki",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/igris-dark-armor",
+      "title": "Igris Dark Armor",
+      "sourceName": "Igris Dark Armor.png",
+      "category": "anime",
+      "width": 1440,
+      "height": 3120,
+      "thumb": "img/thumb/anime/igris-dark-armor-425c03da.webp",
+      "preview": "img/preview/anime/igris-dark-armor-425c03da.webp",
+      "full": "img/full/anime/igris-dark-armor-425c03da.webp",
+      "sizeBytes": 664970,
+      "tags": [
+        "anime",
+        "igris",
+        "dark",
+        "armor",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/jujutsu-kaisen-1284x2778-27211",
+      "title": "Jujutsu Kaisen",
+      "sourceName": "jujutsu-kaisen-1284x2778-27211.png",
+      "category": "anime",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/anime/jujutsu-kaisen-1284x2778-27211-eed01098.webp",
+      "preview": "img/preview/anime/jujutsu-kaisen-1284x2778-27211-eed01098.webp",
+      "full": "img/full/anime/jujutsu-kaisen-1284x2778-27211-eed01098.webp",
+      "sizeBytes": 218998,
+      "tags": [
+        "anime",
+        "jujutsu",
+        "kaisen",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/madara",
+      "title": "Madara",
+      "sourceName": "Madara.png",
+      "category": "anime",
+      "width": 1080,
+      "height": 1920,
+      "thumb": "img/thumb/anime/madara-6ed89367.webp",
+      "preview": "img/preview/anime/madara-6ed89367.webp",
+      "full": "img/full/anime/madara-6ed89367.webp",
+      "sizeBytes": 93840,
+      "tags": [
+        "anime",
+        "madara",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/my-dress-up-darling-cosplay-night",
+      "title": "My Dress Up Darling Cosplay Night",
+      "sourceName": "My Dress-Up Darling Cosplay Night.png",
+      "category": "anime",
+      "width": 2160,
+      "height": 3840,
+      "thumb": "img/thumb/anime/my-dress-up-darling-cosplay-night-8c1ead24.webp",
+      "preview": "img/preview/anime/my-dress-up-darling-cosplay-night-8c1ead24.webp",
+      "full": "img/full/anime/my-dress-up-darling-cosplay-night-8c1ead24.webp",
+      "sizeBytes": 1847726,
+      "tags": [
+        "anime",
+        "my",
+        "dress",
+        "up",
+        "darling",
+        "cosplay",
+        "night",
+        "4k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/mysterious-shadows-girl",
+      "title": "Mysterious Shadows Girl",
+      "sourceName": "Mysterious Shadows Girl.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/mysterious-shadows-girl-a61b2d8a.webp",
+      "preview": "img/preview/anime/mysterious-shadows-girl-a61b2d8a.webp",
+      "full": "img/full/anime/mysterious-shadows-girl-a61b2d8a.webp",
+      "sizeBytes": 410684,
+      "tags": [
+        "anime",
+        "mysterious",
+        "shadows",
+        "girl",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/mystic-autumn",
+      "title": "Mystic Autumn",
+      "sourceName": "Mystic Autumn.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/mystic-autumn-2a9933c0.webp",
+      "preview": "img/preview/anime/mystic-autumn-2a9933c0.webp",
+      "full": "img/full/anime/mystic-autumn-2a9933c0.webp",
+      "sizeBytes": 318382,
+      "tags": [
+        "anime",
+        "mystic",
+        "autumn",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/mystic-shadows",
+      "title": "Mystic Shadows",
+      "sourceName": "Mystic Shadows.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/mystic-shadows-6fdad484.webp",
+      "preview": "img/preview/anime/mystic-shadows-6fdad484.webp",
+      "full": "img/full/anime/mystic-shadows-6fdad484.webp",
+      "sizeBytes": 434072,
+      "tags": [
+        "anime",
+        "mystic",
+        "shadows",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/naruto-uzumaki-1284x2778-27165",
+      "title": "Naruto Uzumaki",
+      "sourceName": "naruto-uzumaki-1284x2778-27165.jpg",
+      "category": "anime",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/anime/naruto-uzumaki-1284x2778-27165-42e353e3.webp",
+      "preview": "img/preview/anime/naruto-uzumaki-1284x2778-27165-42e353e3.webp",
+      "full": "img/full/anime/naruto-uzumaki-1284x2778-27165-42e353e3.webp",
+      "sizeBytes": 741798,
+      "tags": [
+        "anime",
+        "naruto",
+        "uzumaki",
+        "hd"
+      ],
+      "featured": true,
+      "trending": false
+    },
+    {
+      "id": "anime/pain-of-naruto",
+      "title": "Pain Of Naruto",
+      "sourceName": "Pain of Naruto.jpg",
+      "category": "anime",
+      "width": 1080,
+      "height": 1920,
+      "thumb": "img/thumb/anime/pain-of-naruto-61361880.webp",
+      "preview": "img/preview/anime/pain-of-naruto-61361880.webp",
+      "full": "img/full/anime/pain-of-naruto-61361880.webp",
+      "sizeBytes": 49494,
+      "tags": [
+        "anime",
+        "pain",
+        "of",
+        "naruto",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/rengoku-epic",
+      "title": "Rengoku Epic",
+      "sourceName": "Rengoku Epic.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/rengoku-epic-c46aee33.webp",
+      "preview": "img/preview/anime/rengoku-epic-c46aee33.webp",
+      "full": "img/full/anime/rengoku-epic-c46aee33.webp",
+      "sizeBytes": 415078,
+      "tags": [
+        "anime",
+        "rengoku",
+        "epic",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/satoru-gojo-vibe-jujutsu-kaisen",
+      "title": "Satoru Gojo Vibe Jujutsu Kaisen",
+      "sourceName": "Satoru Gojo Vibe Jujutsu Kaisen.png",
+      "category": "anime",
+      "width": 1284,
+      "height": 2778,
+      "thumb": "img/thumb/anime/satoru-gojo-vibe-jujutsu-kaisen-f64c5b2b.webp",
+      "preview": "img/preview/anime/satoru-gojo-vibe-jujutsu-kaisen-f64c5b2b.webp",
+      "full": "img/full/anime/satoru-gojo-vibe-jujutsu-kaisen-f64c5b2b.webp",
+      "sizeBytes": 351660,
+      "tags": [
+        "anime",
+        "satoru",
+        "gojo",
+        "vibe",
+        "jujutsu",
+        "kaisen",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/solo-leveling-epic-dark-warrior",
+      "title": "Solo Leveling Epic Dark Warrior",
+      "sourceName": "Solo Leveling Epic Dark Warrior.png",
+      "category": "anime",
+      "width": 1440,
+      "height": 3120,
+      "thumb": "img/thumb/anime/solo-leveling-epic-dark-warrior-312978d3.webp",
+      "preview": "img/preview/anime/solo-leveling-epic-dark-warrior-312978d3.webp",
+      "full": "img/full/anime/solo-leveling-epic-dark-warrior-312978d3.webp",
+      "sizeBytes": 245902,
+      "tags": [
+        "anime",
+        "solo",
+        "leveling",
+        "epic",
+        "dark",
+        "warrior",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/solo-leveling-god-statue-v2",
+      "title": "Solo Leveling God Statue V2",
+      "sourceName": "Solo Leveling God Statue v2.png",
+      "category": "anime",
+      "width": 1440,
+      "height": 3120,
+      "thumb": "img/thumb/anime/solo-leveling-god-statue-v2-002aed24.webp",
+      "preview": "img/preview/anime/solo-leveling-god-statue-v2-002aed24.webp",
+      "full": "img/full/anime/solo-leveling-god-statue-v2-002aed24.webp",
+      "sizeBytes": 210980,
+      "tags": [
+        "anime",
+        "solo",
+        "leveling",
+        "god",
+        "statue",
+        "v2",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/solo-leveling-god-statue",
+      "title": "Solo Leveling God Statue",
+      "sourceName": "Solo Leveling God Statue.png",
+      "category": "anime",
+      "width": 1440,
+      "height": 3120,
+      "thumb": "img/thumb/anime/solo-leveling-god-statue-09481af3.webp",
+      "preview": "img/preview/anime/solo-leveling-god-statue-09481af3.webp",
+      "full": "img/full/anime/solo-leveling-god-statue-09481af3.webp",
+      "sizeBytes": 316618,
+      "tags": [
+        "anime",
+        "solo",
+        "leveling",
+        "god",
+        "statue",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/sukuna-jujutsu-kaisen",
+      "title": "Sukuna Jujutsu Kaisen",
+      "sourceName": "Sukuna Jujutsu Kaisen.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/sukuna-jujutsu-kaisen-da9a2aa4.webp",
+      "preview": "img/preview/anime/sukuna-jujutsu-kaisen-da9a2aa4.webp",
+      "full": "img/full/anime/sukuna-jujutsu-kaisen-da9a2aa4.webp",
+      "sizeBytes": 580228,
+      "tags": [
+        "anime",
+        "sukuna",
+        "jujutsu",
+        "kaisen",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/sung-jin-woo-intense-gaze",
+      "title": "Sung Jin Woo Intense Gaze",
+      "sourceName": "Sung Jin-Woo Intense Gaze.png",
+      "category": "anime",
+      "width": 1440,
+      "height": 3120,
+      "thumb": "img/thumb/anime/sung-jin-woo-intense-gaze-f2df7c33.webp",
+      "preview": "img/preview/anime/sung-jin-woo-intense-gaze-f2df7c33.webp",
+      "full": "img/full/anime/sung-jin-woo-intense-gaze-f2df7c33.webp",
+      "sizeBytes": 255980,
+      "tags": [
+        "anime",
+        "sung",
+        "jin",
+        "woo",
+        "intense",
+        "gaze",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/sung-jin-woo-intense-glow",
+      "title": "Sung Jin Woo Intense Glow",
+      "sourceName": "Sung Jin-Woo Intense Glow.png",
+      "category": "anime",
+      "width": 1440,
+      "height": 3120,
+      "thumb": "img/thumb/anime/sung-jin-woo-intense-glow-a9fbe395.webp",
+      "preview": "img/preview/anime/sung-jin-woo-intense-glow-a9fbe395.webp",
+      "full": "img/full/anime/sung-jin-woo-intense-glow-a9fbe395.webp",
+      "sizeBytes": 318560,
+      "tags": [
+        "anime",
+        "sung",
+        "jin",
+        "woo",
+        "intense",
+        "glow",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/tanjiro-s-flame-water",
+      "title": "Tanjiro's Flame & Water",
+      "sourceName": "Tanjiro's Flame & Water.png",
+      "category": "anime",
+      "width": 3072,
+      "height": 5504,
+      "thumb": "img/thumb/anime/tanjiro-s-flame-water-a4605848.webp",
+      "preview": "img/preview/anime/tanjiro-s-flame-water-a4605848.webp",
+      "full": "img/full/anime/tanjiro-s-flame-water-a4605848.webp",
+      "sizeBytes": 1971402,
+      "tags": [
+        "anime",
+        "tanjiro's",
+        "flame",
+        "&",
+        "water",
+        "4k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/toji-fushiguro-jujutsu-kaisen",
+      "title": "Toji Fushiguro Jujutsu Kaisen",
+      "sourceName": "Toji Fushiguro Jujutsu Kaisen.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/toji-fushiguro-jujutsu-kaisen-c376d04a.webp",
+      "preview": "img/preview/anime/toji-fushiguro-jujutsu-kaisen-c376d04a.webp",
+      "full": "img/full/anime/toji-fushiguro-jujutsu-kaisen-c376d04a.webp",
+      "sizeBytes": 756470,
+      "tags": [
+        "anime",
+        "toji",
+        "fushiguro",
+        "jujutsu",
+        "kaisen",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "anime/zoro-s-sky-high-ambition",
+      "title": "Zoro's Sky High Ambition",
+      "sourceName": "Zoro's Sky-High Ambition.png",
+      "category": "anime",
+      "width": 1632,
+      "height": 2912,
+      "thumb": "img/thumb/anime/zoro-s-sky-high-ambition-0f926a80.webp",
+      "preview": "img/preview/anime/zoro-s-sky-high-ambition-0f926a80.webp",
+      "full": "img/full/anime/zoro-s-sky-high-ambition-0f926a80.webp",
+      "sizeBytes": 616166,
+      "tags": [
+        "anime",
+        "zoro's",
+        "sky",
+        "high",
+        "ambition",
+        "2k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/jaynus22",
+      "title": "Dark 001",
+      "sourceName": "-JAYNUS22.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/jaynus22-be79c093.webp",
+      "preview": "img/preview/dark/jaynus22-be79c093.webp",
+      "full": "img/full/dark/jaynus22-be79c093.webp",
+      "sizeBytes": 249468,
+      "tags": [
+        "dark",
+        "001",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/jaynus222",
+      "title": "Dark 002",
+      "sourceName": "-JAYNUS222.jpg",
+      "category": "dark",
+      "width": 1200,
+      "height": 2600,
+      "thumb": "img/thumb/dark/jaynus222-6456c2cd.webp",
+      "preview": "img/preview/dark/jaynus222-6456c2cd.webp",
+      "full": "img/full/dark/jaynus222-6456c2cd.webp",
+      "sizeBytes": 218496,
+      "tags": [
+        "dark",
+        "002",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/jaynus",
+      "title": "Dark 003",
+      "sourceName": "✟ -JAYNUS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/jaynus-5d7af5f9.webp",
+      "preview": "img/preview/dark/jaynus-5d7af5f9.webp",
+      "full": "img/full/dark/jaynus-5d7af5f9.webp",
+      "sizeBytes": 64574,
+      "tags": [
+        "dark",
+        "003",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/brilliant",
+      "title": "Brilliant!",
+      "sourceName": "BRİLLİANT!.jpg",
+      "category": "dark",
+      "width": 1200,
+      "height": 2132,
+      "thumb": "img/thumb/dark/brilliant-1de651b4.webp",
+      "preview": "img/preview/dark/brilliant-1de651b4.webp",
+      "full": "img/full/dark/brilliant-1de651b4.webp",
+      "sizeBytes": 227556,
+      "tags": [
+        "dark",
+        "brilliant!",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/daaaa",
+      "title": "Daaaa",
+      "sourceName": "DAAAA.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/daaaa-c671bcc5.webp",
+      "preview": "img/preview/dark/daaaa-c671bcc5.webp",
+      "full": "img/full/dark/daaaa-c671bcc5.webp",
+      "sizeBytes": 104028,
+      "tags": [
+        "dark",
+        "daaaa",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/dark-jyns-wallpaper",
+      "title": "Dark Jyns Wallpaper",
+      "sourceName": "Dark -JYNS WALLPAPER.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/dark-jyns-wallpaper-36733b0e.webp",
+      "preview": "img/preview/dark/dark-jyns-wallpaper-36733b0e.webp",
+      "full": "img/full/dark/dark-jyns-wallpaper-36733b0e.webp",
+      "sizeBytes": 129204,
+      "tags": [
+        "dark",
+        "jyns",
+        "wallpaper",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/dark-davut-jaynus",
+      "title": "Dark Davut",
+      "sourceName": "Dark Davut -JAYNUS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/dark-davut-jaynus-4acebd94.webp",
+      "preview": "img/preview/dark/dark-davut-jaynus-4acebd94.webp",
+      "full": "img/full/dark/dark-davut-jaynus-4acebd94.webp",
+      "sizeBytes": 45244,
+      "tags": [
+        "dark",
+        "davut",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/dark-man",
+      "title": "Dark Man",
+      "sourceName": "Dark Man.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/dark-man-eae93bc4.webp",
+      "preview": "img/preview/dark/dark-man-eae93bc4.webp",
+      "full": "img/full/dark/dark-man-eae93bc4.webp",
+      "sizeBytes": 204010,
+      "tags": [
+        "dark",
+        "man",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/dark-spiderman",
+      "title": "Dark Spiderman",
+      "sourceName": "Dark SpiderMan.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/dark-spiderman-48dd0135.webp",
+      "preview": "img/preview/dark/dark-spiderman-48dd0135.webp",
+      "full": "img/full/dark/dark-spiderman-48dd0135.webp",
+      "sizeBytes": 168044,
+      "tags": [
+        "dark",
+        "spiderman",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/dark-warrior",
+      "title": "Dark Warrior",
+      "sourceName": "DARK WARRİOR.jpg",
+      "category": "dark",
+      "width": 1184,
+      "height": 2560,
+      "thumb": "img/thumb/dark/dark-warrior-c113f75e.webp",
+      "preview": "img/preview/dark/dark-warrior-c113f75e.webp",
+      "full": "img/full/dark/dark-warrior-c113f75e.webp",
+      "sizeBytes": 731226,
+      "tags": [
+        "dark",
+        "warrior",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/dark-winged-jaynus",
+      "title": "Dark Winged",
+      "sourceName": "Dark Winged -JAYNUS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/dark-winged-jaynus-0048882c.webp",
+      "preview": "img/preview/dark/dark-winged-jaynus-0048882c.webp",
+      "full": "img/full/dark/dark-winged-jaynus-0048882c.webp",
+      "sizeBytes": 48662,
+      "tags": [
+        "dark",
+        "winged",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/davut-jaynus",
+      "title": "Davut",
+      "sourceName": "DAVUT -JAYNUS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/davut-jaynus-026c37b0.webp",
+      "preview": "img/preview/dark/davut-jaynus-026c37b0.webp",
+      "full": "img/full/dark/davut-jaynus-026c37b0.webp",
+      "sizeBytes": 211706,
+      "tags": [
+        "dark",
+        "davut",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/echoes-of-greatness-jaynus",
+      "title": "Echoes Of Greatness",
+      "sourceName": "Echoes of Greatness -JAYNUS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/echoes-of-greatness-jaynus-6e4b7748.webp",
+      "preview": "img/preview/dark/echoes-of-greatness-jaynus-6e4b7748.webp",
+      "full": "img/full/dark/echoes-of-greatness-jaynus-6e4b7748.webp",
+      "sizeBytes": 430906,
+      "tags": [
+        "dark",
+        "echoes",
+        "of",
+        "greatness",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/eyes-jaynus",
+      "title": "Eyes",
+      "sourceName": "EYES -JAYNUS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/eyes-jaynus-30f7f5b8.webp",
+      "preview": "img/preview/dark/eyes-jaynus-30f7f5b8.webp",
+      "full": "img/full/dark/eyes-jaynus-30f7f5b8.webp",
+      "sizeBytes": 53354,
+      "tags": [
+        "dark",
+        "eyes",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/focus-jaynus",
+      "title": "Focus",
+      "sourceName": "FOCUS -JAYNUS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/focus-jaynus-026faa57.webp",
+      "preview": "img/preview/dark/focus-jaynus-026faa57.webp",
+      "full": "img/full/dark/focus-jaynus-026faa57.webp",
+      "sizeBytes": 25534,
+      "tags": [
+        "dark",
+        "focus",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/focuss-jaynus",
+      "title": "Focuss",
+      "sourceName": "FOCUSS -JAYNUS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/focuss-jaynus-878b32a2.webp",
+      "preview": "img/preview/dark/focuss-jaynus-878b32a2.webp",
+      "full": "img/full/dark/focuss-jaynus-878b32a2.webp",
+      "sizeBytes": 200840,
+      "tags": [
+        "dark",
+        "focuss",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/ghost-silver-jaynus",
+      "title": "Ghost Silver",
+      "sourceName": "GHOST SİLVER -JAYNUS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/ghost-silver-jaynus-d7a69562.webp",
+      "preview": "img/preview/dark/ghost-silver-jaynus-d7a69562.webp",
+      "full": "img/full/dark/ghost-silver-jaynus-d7a69562.webp",
+      "sizeBytes": 119066,
+      "tags": [
+        "dark",
+        "ghost",
+        "silver",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/ins",
+      "title": "İns",
+      "sourceName": "İNS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/ins-dc3e05cd.webp",
+      "preview": "img/preview/dark/ins-dc3e05cd.webp",
+      "full": "img/full/dark/ins-dc3e05cd.webp",
+      "sizeBytes": 72172,
+      "tags": [
+        "dark",
+        "ins",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/jujutsu-kaisen-jaynus",
+      "title": "Jujutsu Kaisen 2",
+      "sourceName": "JUJUTSU KAISEN -JAYNUS.jpg",
+      "category": "dark",
+      "width": 1080,
+      "height": 1935,
+      "thumb": "img/thumb/dark/jujutsu-kaisen-jaynus-15e19364.webp",
+      "preview": "img/preview/dark/jujutsu-kaisen-jaynus-15e19364.webp",
+      "full": "img/full/dark/jujutsu-kaisen-jaynus-15e19364.webp",
+      "sizeBytes": 127706,
+      "tags": [
+        "dark",
+        "jujutsu",
+        "kaisen",
+        "2",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/kings-jaynus",
+      "title": "Kings",
+      "sourceName": "KİNGS -JAYNUS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/kings-jaynus-c05a799b.webp",
+      "preview": "img/preview/dark/kings-jaynus-c05a799b.webp",
+      "full": "img/full/dark/kings-jaynus-c05a799b.webp",
+      "sizeBytes": 54042,
+      "tags": [
+        "dark",
+        "kings",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/kks",
+      "title": "Kks",
+      "sourceName": "KKS.jpg",
+      "category": "dark",
+      "width": 1080,
+      "height": 1350,
+      "thumb": "img/thumb/dark/kks-8b74ae99.webp",
+      "preview": "img/preview/dark/kks-8b74ae99.webp",
+      "full": "img/full/dark/kks-8b74ae99.webp",
+      "sizeBytes": 92564,
+      "tags": [
+        "dark",
+        "kks",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/obsidian-king-midnight-throne-shadow-sovereign",
+      "title": "Obsidian King Midnight Throne",
+      "sourceName": "Obsidian King Midnight Throne Shadow Sovereign.png",
+      "category": "dark",
+      "width": 2160,
+      "height": 3840,
+      "thumb": "img/thumb/dark/obsidian-king-midnight-throne-shadow-sovereign-e689f044.webp",
+      "preview": "img/preview/dark/obsidian-king-midnight-throne-shadow-sovereign-e689f044.webp",
+      "full": "img/full/dark/obsidian-king-midnight-throne-shadow-sovereign-e689f044.webp",
+      "sizeBytes": 904044,
+      "tags": [
+        "dark",
+        "obsidian",
+        "king",
+        "midnight",
+        "throne",
+        "4k"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dark/veni-vidi-vici-jaynus",
+      "title": "Veni Vidi Vici",
+      "sourceName": "VENI VIDI VICI -JAYNUS.png",
+      "category": "dark",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dark/veni-vidi-vici-jaynus-00f71963.webp",
+      "preview": "img/preview/dark/veni-vidi-vici-jaynus-00f71963.webp",
+      "full": "img/full/dark/veni-vidi-vici-jaynus-00f71963.webp",
+      "sizeBytes": 48588,
+      "tags": [
+        "dark",
+        "veni",
+        "vidi",
+        "vici",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dreamscape/07f6dffad9bfee3e93081db492baf4af",
+      "title": "Dreamscape 001",
+      "sourceName": "07f6dffad9bfee3e93081db492baf4af.jpg",
+      "category": "dreamscape",
+      "width": 1080,
+      "height": 1440,
+      "thumb": "img/thumb/dreamscape/07f6dffad9bfee3e93081db492baf4af-fe19e4dc.webp",
+      "preview": "img/preview/dreamscape/07f6dffad9bfee3e93081db492baf4af-fe19e4dc.webp",
+      "full": "img/full/dreamscape/07f6dffad9bfee3e93081db492baf4af-fe19e4dc.webp",
+      "sizeBytes": 432694,
+      "tags": [
+        "dreamscape",
+        "001",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dreamscape/0fab4bbd2d809dce13d0808f9fb9c1d7",
+      "title": "Dreamscape 002",
+      "sourceName": "0fab4bbd2d809dce13d0808f9fb9c1d7.jpg",
+      "category": "dreamscape",
+      "width": 1200,
+      "height": 2400,
+      "thumb": "img/thumb/dreamscape/0fab4bbd2d809dce13d0808f9fb9c1d7-b8b056ee.webp",
+      "preview": "img/preview/dreamscape/0fab4bbd2d809dce13d0808f9fb9c1d7-b8b056ee.webp",
+      "full": "img/full/dreamscape/0fab4bbd2d809dce13d0808f9fb9c1d7-b8b056ee.webp",
+      "sizeBytes": 224010,
+      "tags": [
+        "dreamscape",
+        "002",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dreamscape/48dc5a312b675f340ed26eeb8f9032e2",
+      "title": "Dreamscape 003",
+      "sourceName": "48dc5a312b675f340ed26eeb8f9032e2.jpg",
+      "category": "dreamscape",
+      "width": 1170,
+      "height": 2080,
+      "thumb": "img/thumb/dreamscape/48dc5a312b675f340ed26eeb8f9032e2-fa6fc213.webp",
+      "preview": "img/preview/dreamscape/48dc5a312b675f340ed26eeb8f9032e2-fa6fc213.webp",
+      "full": "img/full/dreamscape/48dc5a312b675f340ed26eeb8f9032e2-fa6fc213.webp",
+      "sizeBytes": 362018,
+      "tags": [
+        "dreamscape",
+        "003",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dreamscape/6ff6935380069c391209ea1a486e0c57",
+      "title": "Dreamscape 004",
+      "sourceName": "6ff6935380069c391209ea1a486e0c57.jpg",
+      "category": "dreamscape",
+      "width": 1200,
+      "height": 2141,
+      "thumb": "img/thumb/dreamscape/6ff6935380069c391209ea1a486e0c57-30554fb8.webp",
+      "preview": "img/preview/dreamscape/6ff6935380069c391209ea1a486e0c57-30554fb8.webp",
+      "full": "img/full/dreamscape/6ff6935380069c391209ea1a486e0c57-30554fb8.webp",
+      "sizeBytes": 540252,
+      "tags": [
+        "dreamscape",
+        "004",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dreamscape/d3ae6e26542e317d2dc3d1777d838bdb",
+      "title": "Dreamscape 005",
+      "sourceName": "d3ae6e26542e317d2dc3d1777d838bdb.jpg",
+      "category": "dreamscape",
+      "width": 1200,
+      "height": 2040,
+      "thumb": "img/thumb/dreamscape/d3ae6e26542e317d2dc3d1777d838bdb-989a3fd1.webp",
+      "preview": "img/preview/dreamscape/d3ae6e26542e317d2dc3d1777d838bdb-989a3fd1.webp",
+      "full": "img/full/dreamscape/d3ae6e26542e317d2dc3d1777d838bdb-989a3fd1.webp",
+      "sizeBytes": 340850,
+      "tags": [
+        "dreamscape",
+        "005",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dreamscape/d99a21fc94d20cb9f8ec83ac93d99fcd",
+      "title": "Dreamscape 006",
+      "sourceName": "d99a21fc94d20cb9f8ec83ac93d99fcd.jpg",
+      "category": "dreamscape",
+      "width": 1200,
+      "height": 1500,
+      "thumb": "img/thumb/dreamscape/d99a21fc94d20cb9f8ec83ac93d99fcd-734523ad.webp",
+      "preview": "img/preview/dreamscape/d99a21fc94d20cb9f8ec83ac93d99fcd-734523ad.webp",
+      "full": "img/full/dreamscape/d99a21fc94d20cb9f8ec83ac93d99fcd-734523ad.webp",
+      "sizeBytes": 602032,
+      "tags": [
+        "dreamscape",
+        "006",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dreamscape/e8a2b1ee9e8cebff2c6bc6c573df61f0",
+      "title": "Dreamscape 007",
+      "sourceName": "e8a2b1ee9e8cebff2c6bc6c573df61f0.jpg",
+      "category": "dreamscape",
+      "width": 1150,
+      "height": 2251,
+      "thumb": "img/thumb/dreamscape/e8a2b1ee9e8cebff2c6bc6c573df61f0-82c3ddee.webp",
+      "preview": "img/preview/dreamscape/e8a2b1ee9e8cebff2c6bc6c573df61f0-82c3ddee.webp",
+      "full": "img/full/dreamscape/e8a2b1ee9e8cebff2c6bc6c573df61f0-82c3ddee.webp",
+      "sizeBytes": 161466,
+      "tags": [
+        "dreamscape",
+        "007",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dreamscape/hello",
+      "title": "Hello",
+      "sourceName": "HELLO.png",
+      "category": "dreamscape",
+      "width": 1152,
+      "height": 2048,
+      "thumb": "img/thumb/dreamscape/hello-01bcdfd8.webp",
+      "preview": "img/preview/dreamscape/hello-01bcdfd8.webp",
+      "full": "img/full/dreamscape/hello-01bcdfd8.webp",
+      "sizeBytes": 244556,
+      "tags": [
+        "dreamscape",
+        "hello",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dreamscape/slop",
+      "title": "Slop",
+      "sourceName": "SLOP.jpg",
+      "category": "dreamscape",
+      "width": 1150,
+      "height": 2048,
+      "thumb": "img/thumb/dreamscape/slop-25769522.webp",
+      "preview": "img/preview/dreamscape/slop-25769522.webp",
+      "full": "img/full/dreamscape/slop-25769522.webp",
+      "sizeBytes": 747644,
+      "tags": [
+        "dreamscape",
+        "slop",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dreamscape/ww",
+      "title": "Ww",
+      "sourceName": "WW.jpg",
+      "category": "dreamscape",
+      "width": 1200,
+      "height": 2400,
+      "thumb": "img/thumb/dreamscape/ww-32768381.webp",
+      "preview": "img/preview/dreamscape/ww-32768381.webp",
+      "full": "img/full/dreamscape/ww-32768381.webp",
+      "sizeBytes": 756936,
+      "tags": [
+        "dreamscape",
+        "ww",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "dreamscape/wwq",
+      "title": "Wwq",
+      "sourceName": "WWQ.jpg",
+      "category": "dreamscape",
+      "width": 1200,
+      "height": 2400,
+      "thumb": "img/thumb/dreamscape/wwq-a69b40c0.webp",
+      "preview": "img/preview/dreamscape/wwq-a69b40c0.webp",
+      "full": "img/full/dreamscape/wwq-a69b40c0.webp",
+      "sizeBytes": 843546,
+      "tags": [
+        "dreamscape",
+        "wwq",
+        "hd"
+      ],
+      "featured": false,
+      "trending": false
+    }
+  ]
+}
