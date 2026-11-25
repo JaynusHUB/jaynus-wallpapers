@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JAYNUS — wallpaper sunucusu</title>
+<style>
+  body { margin: 0; background: #08090D; color: #fff; font-family: system-ui, sans-serif; }
+  header { text-align: center; padding: 40px 20px 4px; }
+  h1 { letter-spacing: 3px; font-size: 22px; margin: 0; }
+  .accent { color: #9065FF; }
+  .muted { color: #9295A5; font-size: 13px; margin: 10px 0 0; }
+  .cats { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin: 18px 0 0; }
+  .chip { border: 1px solid rgba(255,255,255,.12); background: #151720; border-radius: 999px;
+          padding: 6px 14px; font-size: 12px; color: #D9CCFF; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+          gap: 14px; padding: 26px; max-width: 980px; margin: 0 auto; }
+  .card { background: #0F1017; border: 1px solid rgba(255,255,255,.08); border-radius: 18px;
+          overflow: hidden; text-decoration: none; color: #fff; }
+  .card img { width: 100%; aspect-ratio: 9 / 16; object-fit: cover; display: block; background: #151720; }
+  .card .t { font-size: 12.5px; font-weight: 700; padding: 10px 12px 2px; }
+  .card .c { font-size: 11px; color: #9295A5; padding: 0 12px 12px; }
+  footer { text-align: center; padding: 4px 20px 44px; font-size: 12px; color: #9295A5; }
+  footer a { color: #55C7FF; }
+</style>
+</head>
+<body>
+  <header>
+    <h1>JYNS <span class="accent">&#10003;</span></h1>
+    <p class="muted">Wallpaper sunucusu calisiyor. Uygulama listeleri buradan okur.</p>
+    <div class="cats" id="cats"></div>
+  </header>
+  <div class="grid" id="grid"></div>
+  <footer>Veri: <a href="catalog.json">catalog.json</a></footer>
+  <script>
+    fetch('catalog.json')
+      .then(function (r) { return r.json(); })
+      .then(function (c) {
+        document.getElementById('cats').innerHTML = c.categories
+          .map(function (x) { return '<span class="chip">' + x.title + '</span>'; })
+          .join('');
+        document.getElementById('grid').innerHTML = c.wallpapers
+          .map(function (w) {
+            return '<a class="card" href="' + w.full + '" target="_blank">' +
+              '<img loading="lazy" src="' + w.thumb + '" alt="' + w.title + '">' +
+              '<div class="t">' + w.title + '</div>' +
+              '<div class="c">' + w.category + ' &middot; ' + w.width + 'x' + w.height + '</div>' +
+              '</a>';
+          })
+          .join('');
+      })
+      .catch(function () {
+        document.getElementById('grid').innerHTML =
+          '<p class="muted">catalog.json okunamadi.</p>';
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+/catalog.json
+  Cache-Control: public, max-age=300
+
+/updates.json
+  Cache-Control: public, max-age=300
+
+/apk.json
+  Cache-Control: public, max-age=300

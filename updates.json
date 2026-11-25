@@ -1,0 +1,89 @@
+{
+  "updates": [
+    {
+      "version": "v1.0.2",
+      "date": "2026-11-19",
+      "title": "Quick Apply and new settings",
+      "items": [
+        {
+          "type": "new",
+          "text": "Quick Apply: long-press the center Apply button to pick a source and target"
+        },
+        {
+          "type": "new",
+          "text": "Undo after applying a wallpaper"
+        },
+        {
+          "type": "new",
+          "text": "New AMOLED Black theme"
+        },
+        {
+          "type": "new",
+          "text": "General settings: default target, haptics and confirmation"
+        },
+        {
+          "type": "new",
+          "text": "Wallpaper details with a screen match estimate"
+        },
+        {
+          "type": "improved",
+          "text": "Cleaner update notes layout"
+        },
+        {
+          "type": "fix",
+          "text": "Fixed settings sheets that would not open"
+        }
+      ]
+    },
+    {
+      "version": "v1.0.1",
+      "date": "2026-11-16",
+      "title": "220 wallpapers and a new What's new",
+      "items": [
+        {
+          "type": "new",
+          "text": "220 wallpapers across 4 categories, each with a quality badge (4K, 2K, FHD, HD)"
+        },
+        {
+          "type": "new",
+          "text": "What's new shows new wallpapers by day, plus these update notes"
+        },
+        {
+          "type": "improved",
+          "text": "Cleaner wallpaper names"
+        },
+        {
+          "type": "improved",
+          "text": "Catalog opens from cache at startup"
+        },
+        {
+          "type": "fix",
+          "text": "Fixed list items overlapping the system buttons"
+        }
+      ]
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-11-10",
+      "title": "First release",
+      "items": [
+        {
+          "type": "new",
+          "text": "Home, Wallpaper, Saved, Profile and Settings screens"
+        },
+        {
+          "type": "new",
+          "text": "Set wallpapers on Home, Lock or both screens"
+        },
+        {
+          "type": "new",
+          "text": "Categories: AMOLED, Anime, Dark, Dreamscape"
+        },
+        {
+          "type": "new",
+          "text": "Wallpapers load from the internet, so the app stays small"
+        }
+      ]
+    }
+  ]
+}
